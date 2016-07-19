@@ -3716,6 +3716,7 @@ tbody.collapse.in {
   margin-left: auto;
   margin-right: auto;
   width: 320px;
+  padding-top: 50px;
   height: auto;
 }
 @media screen and (max-width: 800px) {
