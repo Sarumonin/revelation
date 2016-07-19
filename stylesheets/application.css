@@ -3644,6 +3644,18 @@ tbody.collapse.in {
   margin-left: -1px;
 }
 
+
+.mc-footer {
+    padding: 0px 0 0px !important;
+    background: #212228;
+}
+
+.mc-layout {
+    margin-left: -18px;
+    margin-top: 50px !important;
+    line-height: 0;
+}
+
 .jumbotron {
   padding: 0px 0;
   margin-bottom: 0;
